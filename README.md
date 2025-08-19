@@ -7,8 +7,8 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 
 ## 安装旧版本（我们不推荐）
 
-要安装所需的版本，请使用以下安装命令。例如， e.g., ver `v1.7.9`:
+要安装所需的版本，请使用以下安装命令。例如， e.g., ver `v2.5.5`:
 
 ```
-VERSION=v1.7.9 && bash <(curl -Ls "https://raw.githubusercontent.com/mhsanaei/3x-ui/$VERSION/install.sh") $VERSION
+VERSION=v2.5.5 && bash <(curl -Ls "https://raw.githubusercontent.com/mhsanaei/3x-ui/$VERSION/install.sh") $VERSION
 ```
