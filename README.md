@@ -1,13 +1,13 @@
 # 3x-ui指定版本
-## Install & Upgrade
+## 安装和升级
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/MHSanaei/3x-ui/refs/tags/v2.6.0/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 ```
 
-## Install legacy Version (we don't recommend)
+## 安装旧版本（我们不推荐）
 
-To install your desired version, use following installation command. e.g., ver `v1.7.9`:
+要安装所需的版本，请使用以下安装命令。例如， e.g., ver `v1.7.9`:
 
 ```
 VERSION=v1.7.9 && bash <(curl -Ls "https://raw.githubusercontent.com/mhsanaei/3x-ui/$VERSION/install.sh") $VERSION
