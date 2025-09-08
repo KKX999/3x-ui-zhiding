@@ -1,5 +1,5 @@
 # 3x-ui指定版本
-原版地址 https://github.com/MHSanaei/3x-ui
+原版地址 [3x-ui](https://github.com/MHSanaei/3x-ui)
 
 ## 安装和升级
 
